@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-spartoo",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto Spartoo da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-spartoo",
+    "voucher-spartoo",
+    "coupon-spartoo",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/spartoo.it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-spartoo.git"
+  }
+}
